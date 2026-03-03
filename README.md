@@ -1,0 +1,1 @@
+This repository contains projects focused on Geospatial Data Science, a domain that extends conventional data science by incorporating spatial relationships, geographic context, and spatial statistics into analysis.
